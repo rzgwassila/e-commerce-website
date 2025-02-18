@@ -154,30 +154,6 @@ img{
     margin-top: 4px;
 }
 
-
-.footer1, .footer2 {
-    width: 100%;
-    text-align: center;
-    padding: 10px;
-}
-
-.footer1 {
-    background-color: rgb(146, 146, 146);
-    color: rgb(1, 1, 1);
-}
-
-.footer2 {
-    background-color: rgb(24, 22, 22);
-    color: rgb(240, 231, 231);
-}
-
-.footer-container {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-
 body a {
     color: rgb(244, 244, 244); /* Change the color of the links */
     text-decoration: none; /* Removes the underline */
